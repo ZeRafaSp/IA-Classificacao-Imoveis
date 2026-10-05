@@ -69,6 +69,7 @@ Plaintext
 
 ### 👨‍💻 Autor
 **José Rafael Santos Pereira**
+
 Desenvolvendo soluções práticas de dados | Power BI | SQL | Python | Machine Learning
 
 LinkedIn:  https://www.linkedin.com/in/rafaelsantospereirarsp/
