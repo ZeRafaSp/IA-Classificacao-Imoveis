@@ -65,8 +65,10 @@ Plaintext
 
 [x] Fase 5: Treinamento de Modelos e Avaliação de Métricas (Acurácia, F1-Score e Matriz de Confusão).
 
-👨‍💻 Autor
-José Rafael Santos Pereira
+---
+
+### 👨‍💻 Autor
+**José Rafael Santos Pereira**
 Desenvolvendo soluções práticas de dados | Power BI | SQL | Python | Machine Learning
 
 LinkedIn:  https://www.linkedin.com/in/rafaelsantospereirarsp/
